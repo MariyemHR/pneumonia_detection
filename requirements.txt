@@ -1,9 +1,10 @@
 streamlit==1.23.1
 tensorflow==2.16.2
-pillow==9.5.0
 numpy>=1.26.0
-setuptools
 libjpeg-dev
 zlib1g-dev
 pip==24.2
+python_version = ">=3.7, <3.11"
+setuptools==75.0.0
+Pillow==9.5.0
 
