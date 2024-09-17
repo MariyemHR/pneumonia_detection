@@ -3,5 +3,5 @@ tensorflow
 numpy
 Pillow
 setuptools
-opencv-python
+opencv-python-headless
 
