@@ -2,7 +2,6 @@ streamlit
 tensorflow
 numpy
 Pillow
-pip
 setuptools
-opencv-python==4.7.0.72
+opencv-python
 
