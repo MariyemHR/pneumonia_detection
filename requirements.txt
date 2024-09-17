@@ -1,5 +1,5 @@
-streamlit==1.23.1         # Ensure you use the Streamlit version that works for you
-tensorflow==2.16.2        # The TensorFlow version you installed and are using
-Pillow==10.0.0            # For handling images in the app
-numpy==1.24.3             # For numerical operations
-opencv-python==4.8.0.74   # For image preprocessing (resizing and grayscale conversion)
+streamlit==1.23.1
+tensorflow==2.16.2
+Pillow==9.5.0
+numpy==1.24.3
+setuptools>=42  # Required for distutils
