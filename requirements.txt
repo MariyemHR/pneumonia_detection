@@ -4,3 +4,4 @@ numpy>=1.26.0
 Pillow
 pip==24.2
 setuptools==75.0.0
+opencv-python
