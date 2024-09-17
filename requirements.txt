@@ -3,4 +3,4 @@ tensorflow==2.16.2
 numpy>=1.26.0
 pip==24.2
 setuptools==75.0.0
-Pillow==9.3.0
+Pillow==9.4.0
