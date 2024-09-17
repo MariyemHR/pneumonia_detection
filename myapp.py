@@ -62,3 +62,5 @@ if uploaded_file is not None:
         st.write("Prediction: The X-ray is likely **Normal**.")
 else:
     st.write("Please upload an X-ray image.")
+    
+st.write("This app was developed by **Mariyem Harfi**.")
