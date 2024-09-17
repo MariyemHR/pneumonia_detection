@@ -9,7 +9,7 @@ st.image("http://www.ehtp.ac.ma/images/lo.png")
 
 
 # Load your saved model
-model = load_model('/Users/macpro/Desktop/Pneumonia/pneumonia_detection_model.h5')
+model = load_model('pneumonia_detection_model.h5')
 
 # Function to preprocess the uploaded image
 def preprocess_image(image):
