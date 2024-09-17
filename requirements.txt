@@ -1,7 +1,7 @@
 streamlit
-tensorflow==2.16.2
-numpy>=1.26.0
+tensorflow
+numpy
 Pillow
-pip==24.2
-setuptools==75.0.0
+pip
+setuptools
 opencv-python
